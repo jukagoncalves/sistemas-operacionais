@@ -33,20 +33,6 @@ Na versão **multithread**, a imagem é dividida em **faixas horizontais**, e ca
 
 ---
 
-## 📁 Estrutura do Repositório
-
-sistemas-operacionais/
-├── src/
-│ ├── ProcessadorSequencial.java
-│ ├── ProcessadorMultithreads.java
-├── docs/
-│ ├── Trabalho_Pratico_Multithread.pdf
-│ ├── imagem_original.jpg
-│ ├── imagem_cinza.jpg
-└── README.md
-
----
-
 ## ⚙️ Como Executar
 
 1️⃣ Compile os arquivos:
